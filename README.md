@@ -1,4 +1,4 @@
-Repoyu beğendiyseniz lütfen yıldız derecelendirmesi verin.
+Repoyu beğendiyseniz lütfen yıldız derecelendirmesi verin. </br>
 If you like the repo, please give it a star rating.
 Wenn Ihnen das Repo gefällt, geben Sie ihm bitte eine Sternebewertung.
 Nëse ju pëlqen repo, ju lutemi jepni një vlerësim me yje.
